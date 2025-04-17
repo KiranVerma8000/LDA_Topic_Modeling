@@ -1,0 +1,42 @@
+[
+    {
+        "topic_id": 0,
+        "words": "0.034*\"componentelementnames\" + 0.021*\"sps\" + 0.017*\"ttl\" + 0.015*\"Connector_\" + 0.015*\"NumberClass\" + 0.015*\"Technology_\" + 0.014*\"Component_\" + 0.014*\"directory\""
+    },
+    {
+        "topic_id": 1,
+        "words": "0.042*\"Connector_\" + 0.041*\"Component_\" + 0.037*\"Technology_\" + 0.026*\"NumberClass\" + 0.022*\"Connector_Data_\" + 0.022*\"componentelementnames\" + 0.022*\"Pattern_\" + 0.019*\"Service_Providers\""
+    },
+    {
+        "topic_id": 2,
+        "words": "0.050*\"Connector_\" + 0.029*\"Requirement_\" + 0.024*\"Component_\" + 0.018*\"Connector_Data_\" + 0.015*\"edit\" + 0.014*\"componentelementnames\" + 0.013*\"Service_Providers\" + 0.013*\"cluster\""
+    },
+    {
+        "topic_id": 3,
+        "words": "0.025*\"namenode\" + 0.023*\"Technology_\" + 0.022*\"Connector_\" + 0.020*\"nn\" + 0.020*\"Service_Providers\" + 0.019*\"Component_\" + 0.017*\"Quality_Attribute_\" + 0.015*\"componentelementnames\""
+    },
+    {
+        "topic_id": 4,
+        "words": "0.078*\"Technology_\" + 0.063*\"Component_\" + 0.036*\"Connector_\" + 0.035*\"Connector_Data_\" + 0.032*\"Pattern_\" + 0.021*\"use\" + 0.020*\"componentelementnames\" + 0.019*\"Requirement_\""
+    },
+    {
+        "topic_id": 5,
+        "words": "0.035*\"Connector_\" + 0.032*\"Technology_\" + 0.032*\"NumberClass\" + 0.023*\"Service_Providers\" + 0.020*\"block\" + 0.019*\"replica\" + 0.018*\"Pattern_\" + 0.017*\"Connector_Data_\""
+    },
+    {
+        "topic_id": 6,
+        "words": "0.054*\"Component_\" + 0.053*\"Connector_\" + 0.048*\"componentelementnames\" + 0.033*\"Service_Providers\" + 0.030*\"Technology_\" + 0.025*\"Connector_Data_\" + 0.013*\"support\" + 0.013*\"use\""
+    },
+    {
+        "topic_id": 7,
+        "words": "0.067*\"Technology_\" + 0.026*\"Component_\" + 0.021*\"Service_Providers\" + 0.019*\"Requirement_\" + 0.019*\"block\" + 0.017*\"Connector_\" + 0.016*\"componentelementnames\" + 0.016*\"Connector_Data_\""
+    },
+    {
+        "topic_id": 8,
+        "words": "0.063*\"Pattern_\" + 0.056*\"componentelementnames\" + 0.022*\"directory\" + 0.020*\"Service_Providers\" + 0.018*\"support\" + 0.017*\"move\" + 0.016*\"zone\" + 0.014*\"Component_\""
+    },
+    {
+        "topic_id": 9,
+        "words": "0.063*\"Connector_\" + 0.059*\"block\" + 0.046*\"Connector_Data_\" + 0.020*\"Technology_\" + 0.019*\"componentelementnames\" + 0.016*\"Pattern_\" + 0.016*\"datanode\" + 0.016*\"Component_\""
+    }
+]

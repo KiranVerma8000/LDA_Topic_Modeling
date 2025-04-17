@@ -1,0 +1,42 @@
+[
+    {
+        "topic_id": 0,
+        "words": "0.019*\"node\" + 0.018*\"disk\" + 0.013*\"block\" + 0.011*\"would\" + 0.010*\"data\""
+    },
+    {
+        "topic_id": 1,
+        "words": "0.027*\"block\" + 0.023*\"lock\" + 0.016*\"write\" + 0.015*\"read\" + 0.009*\"file\""
+    },
+    {
+        "topic_id": 2,
+        "words": "0.021*\"file\" + 0.019*\"hdfs\" + 0.015*\"storage\" + 0.013*\"block\" + 0.013*\"client\""
+    },
+    {
+        "topic_id": 3,
+        "words": "0.055*\"block\" + 0.025*\"node\" + 0.014*\"replica\" + 0.013*\"balancer\" + 0.013*\"report\""
+    },
+    {
+        "topic_id": 4,
+        "words": "0.025*\"datanode\" + 0.021*\"block\" + 0.015*\"namenode\" + 0.011*\"file\" + 0.010*\"support\""
+    },
+    {
+        "topic_id": 5,
+        "words": "0.019*\"hdfs\" + 0.018*\"api\" + 0.017*\"client\" + 0.013*\"file\" + 0.010*\"namenode\""
+    },
+    {
+        "topic_id": 6,
+        "words": "0.019*\"memory\" + 0.013*\"read\" + 0.013*\"data\" + 0.013*\"namenode\" + 0.011*\"log\""
+    },
+    {
+        "topic_id": 7,
+        "words": "0.021*\"container\" + 0.020*\"ozone\" + 0.017*\"scm\" + 0.016*\"storage\" + 0.012*\"hdfs\""
+    },
+    {
+        "topic_id": 8,
+        "words": "0.016*\"namenode\" + 0.014*\"nn\" + 0.011*\"time\" + 0.009*\"rpc\" + 0.008*\"use\""
+    },
+    {
+        "topic_id": 9,
+        "words": "0.037*\"file\" + 0.014*\"hdfs\" + 0.014*\"snapshot\" + 0.010*\"datanode\" + 0.009*\"directory\""
+    }
+]

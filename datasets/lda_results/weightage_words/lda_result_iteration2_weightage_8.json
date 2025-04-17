@@ -1,0 +1,34 @@
+[
+    {
+        "topic_id": 0,
+        "words": "0.137*\"Component_\" + 0.062*\"Connector_\" + 0.056*\"Technology_\" + 0.056*\"Pattern_\" + 0.050*\"Connector_Data_\" + 0.046*\"componentelementnames\" + 0.038*\"Service_Providers\" + 0.036*\"Requirement_\""
+    },
+    {
+        "topic_id": 1,
+        "words": "0.105*\"componentelementnames\" + 0.026*\"Service_Providers\" + 0.022*\"support\" + 0.020*\"move\" + 0.015*\"Component_\" + 0.014*\"directory\" + 0.013*\"per\" + 0.013*\"use\""
+    },
+    {
+        "topic_id": 2,
+        "words": "0.267*\"Technology_\" + 0.052*\"Connector_\" + 0.045*\"Requirement_\" + 0.039*\"Component_\" + 0.033*\"Service_Providers\" + 0.027*\"Quality_Attribute_\" + 0.023*\"componentelementnames\" + 0.012*\"use\""
+    },
+    {
+        "topic_id": 3,
+        "words": "0.142*\"Connector_\" + 0.094*\"componentelementnames\" + 0.030*\"NumberClass\" + 0.020*\"Connector_Data_\" + 0.019*\"Requirement_\" + 0.015*\"Component_\" + 0.013*\"Service_Providers\" + 0.012*\"snapshot\""
+    },
+    {
+        "topic_id": 4,
+        "words": "0.104*\"Pattern_\" + 0.068*\"Component_\" + 0.044*\"block\" + 0.038*\"Connector_\" + 0.022*\"Quality_Attribute_\" + 0.019*\"report\" + 0.014*\"Connector_Data_\" + 0.013*\"namenode\""
+    },
+    {
+        "topic_id": 5,
+        "words": "0.076*\"Connector_Data_\" + 0.063*\"Connector_\" + 0.059*\"Technology_\" + 0.044*\"Component_\" + 0.037*\"Service_Providers\" + 0.034*\"componentelementnames\" + 0.028*\"block\" + 0.019*\"Requirement_\""
+    },
+    {
+        "topic_id": 6,
+        "words": "0.110*\"Keywords\" + 0.083*\"Service_Providers\" + 0.048*\"Connector_\" + 0.043*\"Requirement_\" + 0.038*\"Connector_Data_\" + 0.037*\"componentelementnames\" + 0.015*\"block\" + 0.014*\"Quality_Attribute_\""
+    },
+    {
+        "topic_id": 7,
+        "words": "0.050*\"Requirement_\" + 0.033*\"namenode\" + 0.031*\"Connector_\" + 0.023*\"Service_Providers\" + 0.020*\"active\" + 0.019*\"Component_\" + 0.017*\"standby\" + 0.016*\"Quality_Attribute_\""
+    }
+]

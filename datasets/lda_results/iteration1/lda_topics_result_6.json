@@ -1,0 +1,26 @@
+[
+    {
+        "topic_id": 0,
+        "words": "0.037*\"block\" + 0.017*\"namenode\" + 0.013*\"nn\" + 0.013*\"node\" + 0.009*\"report\""
+    },
+    {
+        "topic_id": 1,
+        "words": "0.027*\"storage\" + 0.024*\"data\" + 0.012*\"support\" + 0.011*\"container\" + 0.011*\"datanode\""
+    },
+    {
+        "topic_id": 2,
+        "words": "0.037*\"file\" + 0.027*\"hdfs\" + 0.012*\"support\" + 0.011*\"directory\" + 0.009*\"data\""
+    },
+    {
+        "topic_id": 3,
+        "words": "0.021*\"client\" + 0.020*\"block\" + 0.013*\"node\" + 0.011*\"file\" + 0.011*\"hdfs\""
+    },
+    {
+        "topic_id": 4,
+        "words": "0.020*\"datanode\" + 0.017*\"block\" + 0.015*\"cluster\" + 0.010*\"file\" + 0.010*\"hdfs\""
+    },
+    {
+        "topic_id": 5,
+        "words": "0.021*\"read\" + 0.014*\"lock\" + 0.009*\"write\" + 0.008*\"time\" + 0.008*\"namenode\""
+    }
+]

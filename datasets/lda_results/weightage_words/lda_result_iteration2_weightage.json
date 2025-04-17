@@ -1,0 +1,42 @@
+[
+    {
+        "topic_id": 0,
+        "words": "0.051*\"datanode\" + 0.042*\"block\" + 0.032*\"datanodes\" + 0.024*\"pool\" + 0.024*\"disk\" + 0.022*\"Connector_\" + 0.019*\"Service_Providers\" + 0.019*\"upgrade\""
+    },
+    {
+        "topic_id": 1,
+        "words": "0.095*\"block\" + 0.054*\"Pattern_\" + 0.050*\"Connector_\" + 0.037*\"Component_\" + 0.029*\"report\" + 0.023*\"namenode\" + 0.019*\"Connector_Data_\" + 0.013*\"time\""
+    },
+    {
+        "topic_id": 2,
+        "words": "0.221*\"Technology_\" + 0.139*\"Component_\" + 0.039*\"Connector_\" + 0.032*\"Connector_Data_\" + 0.028*\"Pattern_\" + 0.025*\"Service_Providers\" + 0.023*\"Quality_Attribute_\" + 0.023*\"componentelementnames\""
+    },
+    {
+        "topic_id": 3,
+        "words": "0.154*\"Connector_\" + 0.110*\"Technology_\" + 0.043*\"Service_Providers\" + 0.041*\"Connector_Data_\" + 0.027*\"componentelementnames\" + 0.026*\"Component_\" + 0.018*\"Keywords\" + 0.015*\"Quality_Attribute_\""
+    },
+    {
+        "topic_id": 4,
+        "words": "0.122*\"Requirement_\" + 0.066*\"Technology_\" + 0.043*\"Service_Providers\" + 0.038*\"Keywords\" + 0.035*\"Connector_\" + 0.031*\"Connector_Data_\" + 0.028*\"Component_\" + 0.021*\"Quality_Attribute_\""
+    },
+    {
+        "topic_id": 5,
+        "words": "0.152*\"componentelementnames\" + 0.056*\"Connector_\" + 0.045*\"Component_\" + 0.042*\"Pattern_\" + 0.034*\"Service_Providers\" + 0.032*\"Technology_\" + 0.025*\"Keywords\" + 0.024*\"Connector_Data_\""
+    },
+    {
+        "topic_id": 6,
+        "words": "0.087*\"Component_\" + 0.081*\"componentelementnames\" + 0.075*\"Connector_Data_\" + 0.059*\"Connector_\" + 0.028*\"Requirement_\" + 0.025*\"Service_Providers\" + 0.023*\"Technology_\" + 0.019*\"block\""
+    },
+    {
+        "topic_id": 7,
+        "words": "0.112*\"Component_\" + 0.070*\"Technology_\" + 0.036*\"Pattern_\" + 0.033*\"Connector_Data_\" + 0.033*\"Quality_Attribute_\" + 0.030*\"Service_Providers\" + 0.029*\"Requirement_\" + 0.027*\"Connector_\""
+    },
+    {
+        "topic_id": 8,
+        "words": "0.189*\"Pattern_\" + 0.093*\"Connector_\" + 0.064*\"Component_\" + 0.036*\"Connector_Data_\" + 0.018*\"nn\" + 0.016*\"NumberClass\" + 0.014*\"componentelementnames\" + 0.011*\"Service_Providers\""
+    },
+    {
+        "topic_id": 9,
+        "words": "0.087*\"Service_Providers\" + 0.058*\"Connector_Data_\" + 0.045*\"componentelementnames\" + 0.039*\"Connector_\" + 0.019*\"Component_\" + 0.017*\"Quality_Attribute_\" + 0.015*\"namenode\" + 0.014*\"fsimage\""
+    }
+]

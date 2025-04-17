@@ -1,0 +1,38 @@
+[
+    {
+        "topic_id": 0,
+        "words": "0.019*\"class\" + 0.017*\"client\" + 0.017*\"hdfs\" + 0.015*\"implement\" + 0.015*\"api\""
+    },
+    {
+        "topic_id": 1,
+        "words": "0.033*\"hdfs\" + 0.014*\"client\" + 0.014*\"block\" + 0.011*\"zone\" + 0.011*\"encryption\""
+    },
+    {
+        "topic_id": 2,
+        "words": "0.043*\"block\" + 0.025*\"node\" + 0.010*\"time\" + 0.009*\"file\" + 0.009*\"nn\""
+    },
+    {
+        "topic_id": 3,
+        "words": "0.014*\"client\" + 0.011*\"file\" + 0.010*\"use\" + 0.009*\"hdfs\" + 0.009*\"support\""
+    },
+    {
+        "topic_id": 4,
+        "words": "0.024*\"namenode\" + 0.023*\"block\" + 0.011*\"datanode\" + 0.011*\"replica\" + 0.009*\"one\""
+    },
+    {
+        "topic_id": 5,
+        "words": "0.018*\"container\" + 0.016*\"file\" + 0.011*\"ozone\" + 0.011*\"support\" + 0.010*\"scm\""
+    },
+    {
+        "topic_id": 6,
+        "words": "0.029*\"file\" + 0.015*\"datanode\" + 0.014*\"client\" + 0.013*\"pipeline\" + 0.012*\"read\""
+    },
+    {
+        "topic_id": 7,
+        "words": "0.023*\"file\" + 0.022*\"hdfs\" + 0.016*\"support\" + 0.014*\"cluster\" + 0.011*\"add\""
+    },
+    {
+        "topic_id": 8,
+        "words": "0.035*\"storage\" + 0.025*\"block\" + 0.018*\"file\" + 0.014*\"data\" + 0.013*\"datanode\""
+    }
+]
